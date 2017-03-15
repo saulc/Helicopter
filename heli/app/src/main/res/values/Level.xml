@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="coin_width">91</integer>
+    <integer name="coin_height">91</integer>
+    
+    <!-- coin location:
+    	starting location x
+    	satrting location y
+    	number of coins
+    	xSpacing
+    	ySpacing
+    	Y space from yi
+    	 -->
+    <integer-array
+        name="coin_locations">
+        <item>400</item>
+        <item>100</item>
+        <item>77</item>
+        <item>200</item>
+        <item>100</item>
+        <item>900</item>
+      
+    </integer-array>
+</resources>
